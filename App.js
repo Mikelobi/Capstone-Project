@@ -12,7 +12,7 @@ const speaker2 = {
   speakerName: 'Bryan Che',
   title: 'CSO Huawei',
   speakerDescription:
-    "Bryan Che is Chief Strategy Officer at Huawei. There, he leads Huawei’s vision and strategy across its overall businesses and portfolio",
+    'Bryan Che is Chief Strategy Officer at Huawei. There, he leads Huawei’s vision and strategy across its overall businesses and portfolio',
 };
 const speaker3 = {
   imageSrc: 'images/Cassie.jpg',
