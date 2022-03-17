@@ -10,7 +10,7 @@ This is a repository for my Module One Capstone Project at Microverse. It is a w
 
 ## Live Demo
 
-See my [Personal-Portfolio](https://mikelobi.github.io/Capstone-Project/)
+See my [Capstone-Project](https://mikelobi.github.io/Capstone-Project/)
 
 
 ## Getting Started
