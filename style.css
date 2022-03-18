@@ -792,6 +792,7 @@ html {
   .view-more {
     text-transform: uppercase;
     color: var(--white);
+    font-family: var(--lato);
     font-size: 2em;
     padding: 2em 0;
   }
