@@ -37,7 +37,7 @@ See my [Capstone-Project](https://mikelobi.github.io/Capstone-Project/)
 
 ## Video Presentation
 
-You can view a video describing the functionality of the website on [loom](https://www.loom.com/share/6aaeb2aa18a54e2cb33fdfda6dbe3c36)
+You can view a video describing the functionality of the website on [loom](https://www.loom.com/share/2b9dc06315a046a88c95126b6936194f)
 
 ## 🤝 Contributing
 
