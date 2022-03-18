@@ -5,7 +5,7 @@ const speaker1 = {
   speakerName: 'Eric Demuth',
   title: 'CEO and Co-Founder of BitPanda',
   speakerDescription:
-    "Eric Demuth is Co-founder and CEO of Bitpanda, one of Europe's fastest growing FinTechs, Austria's first unicorn company with a €3.54B valuation.",
+    "Eric Demuth is the founding CEO of Bitpanda that aims to strip away the complications of investing in cryptocurrencies and open it up to ordinary people.",
 };
 const speaker2 = {
   imageSrc: 'images/bryan.jpg',
@@ -48,12 +48,10 @@ const speakers = [speaker1, speaker2, speaker3, speaker4, speaker5, speaker6];
 
 const openEls = document.querySelectorAll('[data-open]');
 const closeEls = document.querySelectorAll('[data-close]');
-const openElems = Array.from(openEls);
-const closeElems = Array.from(closeEls);
 const isVisible = 'is-visible';
 const navLinks = document.querySelectorAll('.web-header-link');
 
-openElems.forEach((el) => {
+openEls.forEach((el) => {
   el.addEventListener('click', function () {
     const modalId = this.dataset.open;
     document.getElementById(modalId).classList.add(isVisible);
@@ -61,7 +59,7 @@ openElems.forEach((el) => {
   });
 });
 // Close modal
-closeElems.forEach((el) => {
+closeEls.forEach((el) => {
   el.addEventListener('click', function () {
     this.parentElement.parentElement.classList.remove(isVisible);
     document.body.style.overflow = 'auto';
