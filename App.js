@@ -5,7 +5,7 @@ const speaker1 = {
   speakerName: 'Eric Demuth',
   title: 'CEO and Co-Founder of BitPanda',
   speakerDescription:
-    "Eric Demuth is the founding CEO of Bitpanda that aims to strip away the complications of investing in cryptocurrencies and open it up to ordinary people.",
+    'Eric Demuth is the founding CEO of Bitpanda that aims to strip away the complications of investing in cryptocurrencies and open it up to ordinary people.',
 };
 const speaker2 = {
   imageSrc: 'images/bryan.jpg',
