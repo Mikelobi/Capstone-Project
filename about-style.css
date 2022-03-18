@@ -537,6 +537,12 @@ html {
     font-weight: bold;
   }
 
+  .about-inner-content a {
+    font-size: 18px;
+    font-family: var(--lato);
+    font-weight: bold;
+  }
+
   nav a:hover {
     color: var(--orange);
     transition: all 0.3s;
@@ -661,12 +667,6 @@ html {
   /* About page styles */
   .about-inner-content {
     padding-left: 0;
-  }
-
-  .about-inner-content a {
-    font-size: 18px;
-    font-family: var(--lato);
-    font-weight: bold;
   }
 
   .about-inner-content h1 {
